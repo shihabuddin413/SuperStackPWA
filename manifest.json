@@ -1,0 +1,24 @@
+{
+    "name": "Super Stack",
+    "short_name": "Stack",
+    "start_url": "/?home=true",
+    "icons":[
+        {
+            "src":"icons/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type":"image/png",
+            "purpose":"maskable any"
+        },
+        {
+            "src":"icons/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type":"image/png",
+            "purpose":"maskable any"
+        }
+    ],
+    "theme_color":"#000000",
+    "background-color":"#ffffff",
+    "display":"fullscreen",
+    "orientation":"portrait"
+
+}
